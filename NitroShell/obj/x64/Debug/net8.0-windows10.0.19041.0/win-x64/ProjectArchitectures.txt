@@ -1,1 +1,0 @@
-D:\Usmonov Shohruxmirozs Projects\C#\Projects\NitroShell\NitroShell\NitroShell.csproj;x64
